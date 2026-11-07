@@ -11,7 +11,7 @@ persahabatan di kota Ponyville, di mana dia dan asisten naganya,
 Spike, menjadi teman dekat dengan lima poni lainnya: Applejack,
 Rarity, Fluttershy, Rainbow Dash, dan Pinkie Pie.
 Keenam teman ini secara kolektif disebut sebagai Mane Six. 
-Twilight mewakili Elemen Sihir dalam Elemen Harmoni. (aksen ungu)
+Twilight mewakili Elemen Sihir dalam Elemen Harmoni. (aksen biru)
 > 
 
 Diciptakan oleh Lauren Faust, 
