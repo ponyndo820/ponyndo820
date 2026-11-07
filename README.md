@@ -1,4 +1,6 @@
-![image alt](https://cdn.imagetourls.com/uploads/tyImg/h3XDGElx.png)
+<div align="center">
+  <img src="https://cdn.imagetourls.com/uploads/tyImg/13aSRpnk8.png" width="100">
+</div>
 
 <p align="center">
   <a href="https://wa.me/6285823709413">
