@@ -1,4 +1,4 @@
-![image alt](https://files.catbox.moe/92iphz.jpg)
+![image alt](https://imagetourls.com/id/v?u=https%3A%2F%2Fcdn.imagetourls.com%2Fuploads%2FtyImg%2Fe8ZV1ooX.png)
 
 <p align="center">
   <a href="https://wa.me/6285823709413">
