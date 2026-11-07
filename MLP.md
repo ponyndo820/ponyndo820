@@ -1,5 +1,4 @@
-<span style="color: purple;">TWilight Sparkle</span>
-
+# ![Badge](https://img.shields.io/badge/TWilight_Sparkle-purple)
 
 Twilight Sparkle digambarkan sebagai unicorn antropomorfik yang
 cerdas, rajin belajar, dan terkadang canggung secara sosial 
@@ -17,5 +16,7 @@ Twilight didasarkan pada mainan unicorn Twilight dari seri mainan My Little Pony
 Tim kreatif juga memasukkan kepribadian Twilight ke dalam desainnya, seperti warna ungu dan tanda khasnya. 
 Twilight mendapat pujian karena sifatnya yang mudah dipahami dan kompleksitasnya.
 
-# Applejack
+
+# ![Badge](https://img.shields.io/badge/Applejack-orange)
+
 Applejack digambarkan sebagai kuda poni bumi antropomorfik yang pekerja keras, dapat diandalkan, dan jujur dengan bakat bertani apel dan keterampilan rodeo. Dia bekerja di pertanian keluarganya, Sweet Apple Acres, di Ponyville tempat dia tinggal bersama neneknya Granny Smith, kakak laki-lakinya Big MacIntosh, dan adik perempuannya Apple Bloom . Applejack mewakili Elemen Kejujuran dalam Elemen Harmoni . Dia dicirikan oleh aksen Selatannya , tanda khusus bertema apel , dan topi koboi khasnya , yang jarang dilepasnya.
