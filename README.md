@@ -40,6 +40,3 @@
 
 # Heart-candy
 Heart candy adalah kuda yang baik walaupun agak sedikit nakal, dia sangat suka bermain dan menjahili teman-temannya mirip seperti Pinkie Pie usia nya adalah 17th Makanan favorit nya adalah hamburger dan sup wortel.
-
-> [!NOTE]
-> Teks informasi umum (aksen biru)
