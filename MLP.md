@@ -1,4 +1,5 @@
-# TWilight Sparkle
+<span style="color: purple;">TWilight Sparkle</span>
+
 
 Twilight Sparkle digambarkan sebagai unicorn antropomorfik yang
 cerdas, rajin belajar, dan terkadang canggung secara sosial 
